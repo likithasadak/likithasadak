@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @likithasadak
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on artifical intelligence 
-- 📫 How to reach me ..
+- 💞️ I’m looking to collaborate on artifical intelligenc
 
 <!---
 likithasadak/likithasadak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
