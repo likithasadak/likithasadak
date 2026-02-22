@@ -1,7 +1,6 @@
 #my bio
 - 👋 Hi, I’m @likithasadak
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on artifical intelligenc
 
 <!---
