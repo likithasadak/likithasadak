@@ -18,3 +18,6 @@ Python for security tooling (sockets, threading, regex-based detection)
 likithasadak/likithasadak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Reach me
+LinkedIn: linkedin.com/in/sadaklikitha992
+Email: likithasadak@gmail.com
